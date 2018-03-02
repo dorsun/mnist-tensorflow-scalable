@@ -1,2 +1,2 @@
-# mnist-tensorflow-scalable
-A complete and scalable CNN example of MNIST using tensorflow
+# A complete and scalable CNN example of MNIST using tensorflow
+
