@@ -10,5 +10,5 @@ The model is based on the [LeNet-5](http://yann.lecun.com/exdb/publis/pdf/lecun-
 * [Imanol Schlag's blog](http://ischlag.github.io/2016/11/07/tensorflow-input-pipeline-for-large-datasets/).
 * [R2RT's blog](https://r2rt.com/implementing-batch-normalization-in-tensorflow.html).
 
-The code has been tested with Python 3.6 and Tensorflow 1.4. The running time is ~20 min on a CPU, and ~3 (2) min on one (two) NVIDIA Titan X GPUs.   
+The code has been tested with Python 3.6 and Tensorflow 1.4. The running time is ~20 min on a CPU, and ~3 (2) min on one (two) NVIDIA Titan X GPUs. The test accuracy is ~99.3%.  
 
