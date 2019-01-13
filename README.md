@@ -1,6 +1,6 @@
 # A scalable CNN example of MNIST using tensorflow
 MNIST is a friend of every machine learning-er! The example provided here has the following features (so it may easily be scaled for larger applications):
-* CNN components are wrapped into python classes for convenient experimentation of different cnn architectures.
+* TensorFlow CNN components are wrapped into python classes for convenient experimentation of different cnn architectures.
 * Use tensorflow queues, use batch normalization.
 * Data-parallel multi-GPU training.
 
